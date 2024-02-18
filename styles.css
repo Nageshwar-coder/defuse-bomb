@@ -1,0 +1,36 @@
+body {
+  background-color: #00bafc;
+  height: 70vh;
+}
+
+.middle-container {
+  margin-top: 10%;
+}
+
+.timer-container {
+  padding: 20px;
+  text-align: center;
+}
+   
+.timer-display {
+  font-size: 50px;
+  color: white;
+}
+   
+.user-input {
+  border-width: 0px;
+  border-radius: 4px;
+  padding: 6px;
+  text-align: center;
+}
+   
+.bomb-image {
+  margin-top: 40px;
+  width: 150px;
+}
+
+.hintEl {
+  text-align: center;
+  margin-top: 21px;
+  color: white;
+}
